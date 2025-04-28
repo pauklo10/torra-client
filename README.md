@@ -1,2 +1,2 @@
 # torra
-a lightweight torrenting client written in Golang
+seamless torrenting made simple -- designed for speed, reliability and written in Go
