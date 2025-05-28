@@ -1,2 +1,2 @@
 # torra
-seamless torrenting made simple -- designed for speed, reliability and written in Go
+seamless torrenting made simple -- designed for convenience and reliability
